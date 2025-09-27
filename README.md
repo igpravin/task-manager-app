@@ -10,9 +10,9 @@ A modern, responsive Task Manager built with **React** that helps you stay organ
 
 ## 🌟 Live Demo
 
-**[🚀 Try the Live Application](https://your-deployed-app-url.netlify.app)** _(Deploy instructions below)_
+**[🚀 Try the Live Application](https://igpravin.github.io/task-manager-app)** 🌐
 
-> **Note**: To deploy your own version, follow the deployment instructions in this README.
+> **✨ Fully functional React Task Manager with all features working live!**
 
 ## 🚀 Features
 
