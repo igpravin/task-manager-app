@@ -10,9 +10,16 @@ A modern, responsive Task Manager built with **React** that helps you stay organ
 
 ## 🌟 Live Demo
 
-**[🚀 Try the Live Application](https://igpravin.github.io/task-manager-app)** 🌐
+### **🌐 Working Demo Links:**
+
+**[🚀 CodeSandbox Demo](https://codesandbox.io/p/github/igpravin/task-manager-app)** - *Primary Demo*
+
+**[⚡ StackBlitz Demo](https://stackblitz.com/github/igpravin/task-manager-app)** - *Alternative Demo*
+
+**[📋 GitHub Pages](https://igpravin.github.io/task-manager-app)** - *Redirect Page*
 
 > **✨ Fully functional React Task Manager with all features working live!**
+> Click any link above to try the application immediately.
 
 ## 🚀 Features
 
